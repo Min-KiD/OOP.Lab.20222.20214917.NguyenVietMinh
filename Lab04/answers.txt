@@ -1,0 +1,51 @@
+9. Cart and store are aggregated from Media. And CompactDisc is aggregated from Track
+
+10. If the passing object is not an instance of Media, the function "equals()" will return false always
+
+11. In this sample code, an ArrayList called mediae is created to keep objects of type Media.Then objects are created and added to mediae. A 'for' loop is used to iterate over each meidae in the mediae ArrayList. In the loop, .toString() is called to convert the current object element to its string representation. This string representation is then printed to the console with its id
+
+12. - The class that should implement the Comparable interface is Media as it being aggregated from Cart and Store.
+
+- For example if we implement sort by title then by cost:
+public int compareTo(Media o) {
+    int titleComparison = this.getTitle().compareTo(o.getTitle());
+    
+    if (titleComparison == 0) {
+        // If titles are the same, compare by cost in descending order
+        return Double.compare(o.getCost(), this.getCost());
+    }
+    
+    return titleComparison;
+}
+
+- Using the Comparable interface approach, we can only have one natural ordering for the items. In this case, it would be by title and then by cost, or by cost and then by title. We cannot have both ordering rules at the same time.
+
+- public class Dvd extends Media {
+    
+    @Override
+    public int compareTo(Media o) {
+        if (o instanceof Dvd) {
+            Dvd otherDvd = (Dvd) o;
+            
+            int titleComparison = this.getTitle().compareTo(otherDvd.getTitle());
+            
+            if (titleComparison == 0) {
+                // If titles are the same, compare by decreasing length
+                int lengthComparison = Integer.compare(otherDvd.getLength(), this.getLength());
+                
+                if (lengthComparison == 0) {
+                    // If lengths are the same, compare by cost
+                    return Double.compare(this.getCost(), otherDvd.getCost());
+                }
+                
+                return lengthComparison;
+            }
+            
+            return titleComparison;
+        }
+        
+        // If the other object is not a DVD, use the default comparison in the Media class
+        return super.compareTo(os);
+    }
+}
+ 

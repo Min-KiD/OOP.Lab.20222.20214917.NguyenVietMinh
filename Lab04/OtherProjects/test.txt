@@ -1,0 +1,57 @@
+1	Nghiên cứu đề xuất quy trình ứng dụng công nghệ thực tế ảo tăng cường trong kết nối dữ liệu địa lý trên thiết bị di động thông minh	Tạp chí Công nghệ thông tin	Phạm Lan Hương, Nguyễn Thị Phương Bắc, Trần Trung Chuyên	1/1/2022
+2	Nghiên cứu ảnh hưởng của chiều dày vỏ hầm đến nội lực trong vỏ hầm metro tiết diện chữ nhật cong: áp dụng cho tuyến metro số 3 dự án metro Hà Nội.	Tạp chí địa kỹ thuật	Đặng Văn Kiên, Ngô Doãn Hào, Nguyễn Hữu Sà	1/1/2022
+3	Giải pháp đẩy mạnh hoạt động chia sẻ tri thức của bộ phận lao động trực tiếp tại Công ty cổ phần Than Hà Lầm - Vinacomin	Tạp chí Công Thương	Phạm Thị Nguyệt	1/1/2022
+4	Đạo đức trong hoạt động sản xuất nông nghiệp	Tạp chí Nông thôn mới	Trần Thị Phúc An, Nguyễn Thị Kim Dung	8/1/2022
+5	Nghiên cứu khả năng xử lý ion Pb2+ trong nước bằng sericit ở mỏ Sơn Bình, Hà Tĩnh	Vietnam Journal of Catalysis and Adsorption, 11 – issue 2 (2022) 76-82	Võ Thị Hạnh, Lê Thị Duyên, Nguyễn Thị Thanh Thảo, Đỗ Thị Hải, Nguyễn Mạnh Hà, Vũ Thị Minh Hồng, Bùi Hoàng Bắc	10/1/2022
+6	
+Evaluation of the coal reserve reliability in the cao son mine, quang ninh province by using geomathermatic models
+
+Tạp chí Khoa học Đại học Huế: Khoa học Trái đất và Môi trường	Khương Thế Hùng	10/1/2022
+7	
+Sự thay đổi trạng thái ứng suất trong khối đá xung quanh đường hầm do tác động của phương pháp khai đào (the change of stress state in the rock mass around the tunnel due to the impact of the excavation method)
+
+TẠP CHÍ KHCN ĐH BÌNH DƯƠNG	Nguyễn Xuân Mãn, Nguyễn Duyên Phong, Nguyễn Xuân Phúc	14/1/2022
+8	
+Sử dụng hiệu qủa không gian ngầm trong trái đất hỗ trợ sinh hoạt của con người trong tương lai (перспектива города с использованием пространства в недрах земли для жизнеобеспечения человеческой деятельности)
+
+TẠP CHÍ KHCN ĐH BÌNH DƯƠNG	Nguyễn Xuân Mãn, Kartozia Boris Arnoldovich, Pankratenko Alexander Nikitovich, Nguyễn Xuân Phúc	14/1/2022
+9	Tăng cường ứng dụng công nghệ thông tin, công nghệ mô phỏng trong dạy học ở các trường đào tạo ngành kỹ thuật quân sự trong quân đội hiện nay	Tạp chí khoa học giáo dục việt Nam	Vương Thị Như Quỳnh, Đào Thị Thu Vân	15/1/2022
+10	Displacement monitoring of high-rise buildings by using terrestrial laser scanners: Faro Focus3D X130	Jounal of Mining and Earth Sciences	Phạm Trung Dũng, Cao Xuân Cường, Lê Đức Tình, Đinh Văn Lê, Ngô Sỹ Cường	19/1/2022
+11	Đánh giá hiệu quả chống bụi trong mỏ hầm lò tại Công ty 35 – tổng công ty Đông Bắc bằng hệ thống phun sương kết hợp nước và khí nén	Thông tin KHCN Mỏ	Đào Văn Chi, Vũ Thái Tiến Dũng, Lê Tiến Dũng	20/1/2022
+12	Một số vấn đề về công tác định giá đất ở Việt Nam	Tạp chí Tài nguyên và Môi trường	Nguyễn Văn Quân, Nguyễn Thị Kim Yến	21/1/2022
+13	Đánh giá tài nguyên nước dưới đất trong các thành tạo bở rời thung lũng Mường Thanh bằng phương pháp mô hình số	Khoa học và Công nghệ Việt Nam	Nguyễn Huy Vượng, Nguyễn Bách Thảo, Đào Đức Bằng, Trần Văn Quang, Nguyễn Thành Công, Phạm Tuấn	21/1/2022
+14	Phân tích về ngôn ngữ truyền thông của trường đại học mỏ - địa chất sử dụng trên mạng xã hội	Tạp chí Giáo chức Việt Nam	Nguyễn Việt Hà, Nguyễn Hồng Hạnh	25/1/2022
+15	Experimental investigation of the secondary creep of fiber reinforced concrete at high stress: Macroscopic measurement and digital image correlation	Journal of Science and Technology in Civil Engineering (STCE Journal) – Hanoi University of Civil Engineering (HUCE)	Phạm Đức Thọ, Trần Mạnh Tiến, Đặng Trung Thành, Vũ Minh Ngạn, Vu Minh Ngoc, Luca Sorelli	26/1/2022
+16	Water quality degradation in Sat River - the section flowing through Hai Duong province and some proposals to improve river water quality	tạp chí khoa học kỹ thuật mỏ địa chất	Vũ Thị Phương Thảo, Nguyễn Thi Thanh	30/1/2022
+17	Nâng cao chất lượng giáo dục Chính trị cho sinh viên ở Trường Đại học Mỏ - Địa chất hiện nay	Tạp chí của Trung ương hội khuyến học Việt Nam	Trần Thanh Hanh	1/2/2022
+18	Nâng cao chất lượng trong huấn luyện, học tập hoạt động phối hợp tiến công ở địa hình trung du hiện nay	Tạp chí của Trung ương hội khuyến học Việt Nam	Nghiêm Công Đĩnh	1/2/2022
+19	Một số giải pháp phát triển du lịch địa chất tại Việt Nam	Journal of Sience and Technology	Nguyễn Thị Bích Phượng, Nguyễn Lan Hoàng Thảo	1/2/2022
+20	Tiềm năng tài nguyên quặng Talc khu vực Pá Lông - Bó Xinh, Sơn La	Tạp chí Công nghiệp mỏ	Lương Quang Khang, Khương Thế Hùng	1/2/2022
+21	Giám sát các thông số hoạt động của thiết bị sử dụng mạng cảm biến không dây	Tạp chí Công nghiệp Mỏ	Uông Quang Tuyến, Phạm Minh Hải, Thái Hải Âu	2/2/2022
+22	Bảo vệ chạm đất một pha so sánh song song các véc-tơ cực đại thứ tự không và cảnh báo chạm đất	Tạp chí Công nghiệp Mỏ	Đinh Văn Thắng	4/2/2022
+23	Nghiên cứu ổn định đường hầm metro tiết diện hình chữ nhật cong tại dự án hầm metro thành phố Hồ Chí Minh bằng phương pháp số	Tạp chí công nghiệp mỏ	Đặng Văn Kiên, Võ Trọng Hùng, Đỗ Ngọc Anh	10/2/2022
+24	Nghiên cứu ứng dụng ảnh vệ tinh để bổ sung cập nhật độ sâu cho hải đồ các vùng ven biển của Việt Nam	Tạp chí công nghiệp Mỏ	Dương Vân Phong, Phạm Ngọc Quang	17/2/2022
+25	Xác định nhóm mỏ và mạng lưới thăm dò quặng vàng gốc vùng Attapeu, CHDCND Lào	Tạp chí khoa học kỹ thuật Mỏ - Địa chất	Houmphavanh Phatthana , Nguyễn Phương, Nguyễn Tiến Dũng, Bùi Viết Sáng	28/2/2022
+26	Xây dựng hệ thống giám sát và dập bụi mỏ tự động ứng dụng công nghệ IoT cho các khu chế biến của mỏ than	Tạp chí KHKT Mỏ - Địa chất	Nguyễn Duy Huy, Nguyễn Thùy Dương, Khổng Cao Phong, Nguyễn Văn Thịnh, Vũ Đức Trọng	28/2/2022
+27	Khả năng ứng dụng xỉ thép trong bê tông tự đầm cho kết cấu chống giữ công trình ngầm	Tạp chí Khoa học Kỹ thuật Mỏ-Địa chất	Trần Tuấn Điệp, Trần Tuấn Minh, Nguyễn Duyên Phong	28/2/2022
+28	Nghiên cứu trình tự tướng đá trầm tích khu vực thung lũng Hoành Bồ, Quảng Ninh bằng mô hình xích Markov và Entropy	Khoa học Kỹ thuật Mỏ - Địa chất	Khương Thế Hùng, Lại Thị Thúy Trà	28/2/2022
+29	Nghiên cứu thiết kế phát triển máy định vị vệ tinh GNSS trong đo đạc thành lập bản đồ theo kỹ thuật CORS/RTK	Khoa học kỹ thuật Mỏ - Địa chất	Phạm Công Khải, Nguyễn Viết Nghĩa, Nguyễn Văn Hải	28/2/2022
+30	Giải pháp phát triển nguồn nhân lực tại các doanh nghiệp ngành công nghiệp than Việt Nam	Tạp chí Kinh tế Châu Á - Thái Bình Dương, ISSN 0868-3808, Số 606, tháng 3/2022 (p54-56)	Nguyễn Ngọc Khánh	1/3/2022
+31	Nghiên cứu thành phần hóa học nguồn nước phục vụ bảo tồn gen và phát triển chuỗi giá trị bò H’mông ở miền núi phía Bắc	Tạp chí Khoa học và Công nghệ Việt Nam tập 64, số 3, trang 8-10	Vũ Thị Minh Hồng, Đỗ Thị Hải	1/3/2022
+32	Nhu cầu chăm sóc dài hạn của người cao tuổi ở việt nam: bằng chứng từ khảo sát quốc gia	Kinh tế & Phát triển	Phí Mạnh Phong, Phí Mạnh Hồng	1/3/2022
+33	A review on the role of the Mekong River in contributing terrigenous sediments in the southwest East Sea	Tạp chí Phát triển Khoa học và Công nghệ: Khoa học Trái đất và Môi trường	Phạm Như Sang, Nguyễn Hữu Hiệp, Hoàng Văn Long, Khương Thế Hùng, Nguyễn Lâm Anh, Trịnh Thành Trung	3/3/2022
+34	Preliminary research results on the use of volcanic ash and felsic volcanic rock in Vietnam as materials to support crop growth	Tạp chí KHKT Mỏ - Địa chất (tiếng Anh)	Đặng Thị Vinh, Nguyễn Khắc Giảng	5/3/2022
+35	Ứng dụng mô phỏng số để xác định áp lực nổ cần thiết nhằm tạo khe nứt giữa các lỗ khoan trong nổ mìn tạo biên tại mỏ đồng Sin Quyền	Tạp chí Công Nghiệp Mỏ	Phạm Văn Hòa, Phạm Văn Việt, Nguyễn Đình An, Trần Đình Bão, Đinh Tiến	7/3/2022
+36	Ứng dụng phương pháp số phân tích ảnh hưởng của hình dạng tiết diện ngang đến độ ổn định của khối đá xung quanh đường lò đào trong than	Tạp chí khoa học kỹ thuật mỏ - địa chất	Phạm Thị Nhàn, Fuzhou Qi	11/3/2022
+37	Phát huy hơn nữa vai trò của của các hội thể thao quốc gia trong quá trình chuẩn bị seagame 31	Tạp chí thể thao	Trần Lan Hương	15/3/2022
+38	Những nội dung cơ bản về khoán chi phí phân xưởng sản xuất trong doanh nghiệp đào lò thuộc Tập đoàn Công nghiệp Than - Khoáng sản Việt nam (TKV)	Tạp chí khoa hoc Quản lý và Công nghệ số 20 quý 1/2022, chỉ số ISSN: 2525-2348	Nguyễn Văn Bưởi	15/3/2022
+39	Khả năng sử dụng của dữ liệu LiDAR trong phân loại lớp phủ bề mặt khu vực đô thị	Tạp chí Tài nguyên và Môi trường	Nguyễn Thị Hữu Phương, Nguyễn Minh Thắng	15/3/2022
+40	Vận dụng tư tưởng Hồ Chí Minh về tinh thần trách nhiệm để khơi dậy khát vọng phát triển đất nước	Xaydungdang.org.vn	Trần Thị Phúc An	15/3/2022
+41	Nghiên cứu ảnh hưởng của một số thông số cấu trúc khối đá đến độ ổn định khối nêm khi sử dụng kết cấu chống giữ bằng vì neo	Công nghiệp mỏ	Đỗ Ngọc Thái	15/3/2022
+42	Nghề trạm bạc của người dao đỏ ở huyện nguyên bình, tỉnh cao bằng	Nhân lực khoa học xã hội	Nguyễn Văn Phong, Nguyễn Thị Hoa	22/3/2022
+43	Ảnh hưởng của phonon lên tính chất hàm cảm ứng Exciton trong mô hình Falicov-Kimball mở rộng	Tạp chí Khoa học và Công nghệ Đại học Duy Tân	Đỗ Thị Hồng Hải, Nguyễn Dương Bộ, Phan Văn Nhâm	24/3/2022
+44	Ứng dụng ARCGIS API xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai tại huyện Phú Lương, tỉnh Thái Nguyên	Tạp chí Khoa học Đo đạc và Bản đồ	Trần Xuân Miễn, Nguyễn Thế Công, Phạm Thị Kim Thoa, Nguyễn Thị Dung, Đặng Thị Hoàng Nga	25/3/2022
+45	Ứng dụng biểu đồ nhân quả trong kiểm soát chất lượng sản phẩm tại Xưởng Cơ khí Dung Quất – PTSC Quảng Ngãi	Tạp Chí Công Thương	Nguyễn Thu Hà, Phạm Ngọc Tuấn	25/3/2022
+46	Đánh giá hiện trạng chất lượng môi trường và đề xuất giải pháp quản lý môi trường cho Công ty Cổ phần than Hà Tu - Vinacomin	Tạp chí Công nghiệp Mỏ	Trần Thị Thanh Thủy, Nguyễn Mai Hoa, Phạm Khánh Huy	25/3/2022
+47	Effect of Eu Doping on Structural, Optical and Magnetic Properties of BiFeO3 Materials	VNU Journal of Science: Mathematics – Physics	Đào Việt Thắng, Nguyễn Mạnh Hùng, Nguyen Phuong Thao Nguyen Cao Khang, Le Thi Mai Oanh, Ngo Thi Cam Linh Bui Dinh Tu	25/3/2022
+48	Classification and Assessment the Composition of Plastic Waste Drived from Household Product on Nhue River, from Chem Drain to Noi Bridge	VNU Journal of Science: Earth and Environmental Sciences	Trần Thị Thu Hương, Xuan tong nguyen	25/3/2022
